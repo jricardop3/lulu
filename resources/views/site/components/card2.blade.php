@@ -1,3 +1,5 @@
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
 <div class="row row-cols-1 row-cols-md-3 g-4 m-auto">
   <div class="col" data-aos="fade-right"
      data-aos-duration="3000">
@@ -39,3 +41,9 @@
     </div>
   </div>
 </div>
+
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+<script>
+  AOS.init();
+</script>

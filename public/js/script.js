@@ -5,8 +5,5 @@ $(document).ready(function() {
     once: true
   });
     
-
-
-
 })
 

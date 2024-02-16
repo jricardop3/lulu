@@ -17,6 +17,6 @@
                 <h3>Serviço 3</h3>
                 <p>Descrição breve do serviço 3.</p>
             </div>
-        </div>
+        </div> 
     </div>
 </section>

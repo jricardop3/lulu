@@ -1,33 +1,23 @@
-<nav class="navbar navbar-expand-lg bg-body-primary sticky-top my-5">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="#" style="color:pink !important;">
-            <img src="img/lg.png" alt="Logo" width="32" height="32" class="d-inline-block align-text-top" id="logo">
-            Loise Nutricionista
-          </a>      
+<nav class="navbar navbar-expand-lg bg-body-primary sticky-top py-3 colornav">
+    <div class="container-fluid lh-1">
+        <a class="navbar-brand grow" href="#" style="color:black !important;">
+            Louise Nutricionista            
+        </a>      
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav" >
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#" style="color:pink !important;">Home</a>
+            <a class="nav-link grow" aria-current="page" href="#" style="color:black !important;">Inicio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#" style="color:pink !important;">Features</a>
+            <a class="nav-link grow" href="#" style="color:black !important;">Conteúdos</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#" style="color:pink !important;">Pricing</a>
+            <a class="nav-link grow" href="#" style="color:black !important;">Consultas</a>
           </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"  style="color:pink !important;">
-              Dropdown link
-            </a>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Action</a></li>
-              <li><a class="dropdown-item" href="#">Another action</a></li>
-              <li><a class="dropdown-item" href="#">Something else here</a></li>
-            </ul>
-          </li>
+          
         </ul>
       </div>
     </div>

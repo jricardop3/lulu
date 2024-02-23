@@ -1,18 +1,20 @@
 @extends('site.layout.layout')
-@section('title', 'Olá mundo')
+@section('title', 'Louise Nutrição')
 @section('conteudo')
-        <div class="">
-        @component('site.components.container') 
+<div class="">
+        @component('site.components.container')
         @endcomponent
-        </div><div class="row">
-        @component('site.components.container2') 
+</div>
+<div class="row">
+        @component('site.components.video')
         @endcomponent
-        </div><div class="row">
-        @component('site.components.card5') 
+</div>
+<div class="row">
+        @component('site.components.card5')
         @endcomponent
-        </div>
-        
-        
-    
-@endsection
+</div>
 
+
+
+
+@endsection

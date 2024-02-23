@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
-<html lang="pt-br">
+    <html lang="pt-br">
+
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,11 +11,14 @@
         <title>@yield('title')</title>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
         <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-        
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+
     </head>
-<body style="background: linear-gradient(45deg, rgba(251,78,131,1) 0%, rgba(216,148,233,0.9415966215587798) 100%);">
-    
-    @component('site.components.nav') 
+
+<body style="  background-image: linear-gradient(to top, #ffb3e7, #ffb4d0, #ffbbbb, #ffc4ac, #ffcfa6, #ffd4a5, #ffd9a4, #ffdfa4, #ffdfa4, #ffdfa4, #ffdfa4, #ffdfa4);">
+
+    @component('site.components.nav')
     @endcomponent
     <!-- yield precisa do section vindo da pagina correspondente. liga com extends na pagina correspondente. -->
     @yield('conteudo')
@@ -28,4 +33,5 @@
     <script src="js/script.js"></script>
     @stack('iconcard')
 </body>
+
 </html>

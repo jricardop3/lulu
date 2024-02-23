@@ -9,8 +9,10 @@
       </div>
     </div>
   </div>
-  <div class="col" data-aos="fade-down-right" data-aos-easing="linear"
-     data-aos-duration="1500">
+  <div class="col" data-aos="fade-left"
+     data-aos-anchor="#example-anchor"
+     data-aos-offset="500"
+     data-aos-duration="500">
     <div class="card">
       <img src="http://lorempixel.com.br/400/150/?2" class="card-img-top" alt="...">
       <div class="card-body">

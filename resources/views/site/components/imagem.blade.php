@@ -1,2 +1,2 @@
 
-    <img src="http://lorempixel.com.br/720/620/?1" class="img-thumbnail" alt="...">
+    <img src="img/lulucentral.jpeg" class="img-thumbnail"  alt="...">

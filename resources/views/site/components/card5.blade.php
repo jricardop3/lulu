@@ -1,5 +1,5 @@
 <section id="services" class="services-section">
-    <div class="container">
+    <div class="row">
         <h2 class="text-center mb-4">Conheça mais</h2>
         <div class="row">
             <div class="col-md-4 mb-4 " data-aos="fade-up" data-aos-anchor-placement="center-bottom">

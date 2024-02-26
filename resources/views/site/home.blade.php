@@ -5,10 +5,7 @@
         @component('site.components.container')
         @endcomponent
 </div>
-<div class="row">
-        @component('site.components.video')
-        @endcomponent
-</div>
+
 <div class="row">
         @component('site.components.card5')
         @endcomponent

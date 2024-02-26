@@ -1,8 +1,8 @@
-<section id="services" class="services-section">
-    <div class="row">
+<section id="services" class="services-section ">
+    <div class="row gx-0">
         <h2 class="text-center mb-4">Conheça mais</h2>
         <div class="row">
-            <div class="col-md-4 mb-4 " data-aos="fade-up" data-aos-anchor-placement="center-bottom">
+            <div class="col-md-4 mb-4" data-aos="fade-up" data-aos-anchor-placement="center-bottom">
                 <img src="https://www.svgrepo.com/show/227509/calendar-date.svg" alt="Serviço 1" class="img-fluid">
                 <div class="glass mt-3">
                     <h3>Consulta</h3>

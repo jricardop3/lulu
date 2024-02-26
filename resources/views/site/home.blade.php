@@ -6,7 +6,7 @@
         @endcomponent
 </div>
 
-<div class="row">
+<div class="row gx-0">
         @component('site.components.card5')
         @endcomponent
 </div>

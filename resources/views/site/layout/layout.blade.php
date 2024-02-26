@@ -18,7 +18,6 @@
         <link href="https://fonts.googleapis.com/css2?family=Alice&family=BIZ+UDMincho&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Gulzar&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
 
-
     </head>
 
 <body style="  background-image: linear-gradient(to top, #ffb3e7, #ffb4d0, #ffbbbb, #ffc4ac, #ffcfa6, #ffd4a5, #ffd9a4, #ffdfa4, #ffdfa4, #ffdfa4, #ffdfa4, #ffdfa4);">

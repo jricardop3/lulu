@@ -1,2 +1,2 @@
 
-    <img src="img/lulucentral.jpeg" class="img-thumbnail"  alt="...">
+    <img src="img/lulucentral2.jpeg" class="img-thumbnail" style="border-radius: 16px;" alt="...">

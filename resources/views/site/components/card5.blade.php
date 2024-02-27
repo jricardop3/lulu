@@ -1,5 +1,5 @@
 
-<div class="row gx-0" style="font-family: Alice, serif; font-size: 30px;">
+<div class="container-fluid" style="font-family: Alice, serif; font-size: 30px;">
         <h2 class="text-center mt-2 mb-4" style="font-family: Alice, serif;">Conheça mais</h2>
         <div class="row" >
             <div class="col-md-4 mb-4 " data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1500">

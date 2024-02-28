@@ -20,7 +20,7 @@
 
     </head>
 
-<body style="  background-image: linear-gradient(to top, #ffb3e7, #ffb4d0, #ffbbbb, #ffc4ac, #ffcfa6, #ffd4a5, #ffd9a4, #ffdfa4, #ffdfa4, #ffdfa4, #ffdfa4, #ffdfa4);">
+<body style="  background-image: linear-gradient(to top, #ffffff, #fbf8fc, #faf1f6, #f9eaed, #f8e3e1, #f6e0db, #f4ded6, #f1dcd0, #f1dcd0, #f1dcd0, #f1dcd0, #f1dcd0);">
 
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Alice&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Gulzar&display=swap')
@@ -32,7 +32,7 @@
     <!--  componet no singular, necessida da pasta components no plural. -->
     @component('site.components.footer')
     @endcomponent
-    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.9"></script>
+    
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
     <script src="js/script.js"></script>

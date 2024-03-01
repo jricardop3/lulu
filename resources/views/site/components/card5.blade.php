@@ -17,20 +17,20 @@
                 </div>
             </div>
             <div class="col-md-4 mb-4" data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1500">
-                <img src="https://www.svgrepo.com/show/513284/comment.svg" alt="Serviço 3" class="img-fluid">
+                <img src="https://www.svgrepo.com/show/513284/comment.svg" alt="Serviço 3" class="img-fluid" width="150px">
                 <div class="glass mt-3">
                     <h3>Depoimento</h3>
                     <p>
-                    <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
+                    <div id="carouselExample" class="carousel slide" data-bs-ride="carousel" style="padding: 2vh 2vw;">
                         <div class="carousel-inner">
-                            <div class="carousel-item active " data-bs-interval="50000">
+                            <div class="carousel-item active " data-bs-interval="5000">
                                 <p>ahoy</p>
-                            </div>
+                            </div>  
                             <div class="carousel-item" data-bs-interval="5000">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero commodi adipisci quibusdam, excepturi quas quaerat odio expedita illum veniam inventore.</p>
                             </div>
                             <div class="carousel-item" data-bs-interval="5000">
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet architecto doloribus, est voluptatum accusantium eum!</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos veritatis quis reprehenderit ab. Ea, temporibus, assumenda nihil illum ipsam, doloremque dolor consequatur tenetur deserunt sequi explicabo ipsum saepe veritatis dicta.</p>
                             </div>
                         </div>
                         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">

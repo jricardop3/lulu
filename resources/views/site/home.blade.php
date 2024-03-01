@@ -1,8 +1,8 @@
 @extends('site.layout.layout')
 @section('title', 'Louise Nutrição')
 @section('conteudo')
-<div class="row gx-0 ">
-        @component('site.components.container')
+<div class="row gx-0">
+        @component('site.components.container4')
         @endcomponent
 </div>
 <div class="row gx-0">
@@ -20,10 +20,6 @@ text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;
   z-index:1000;" target="_blank">
         <i style="margin-top:16px" class="fa fa-instagram"></i>
 </a>
-
-
-
-
 
 
 @endsection

@@ -1,4 +1,4 @@
-<div class="row w-100 h-100 glass " >
+<div class="w-100 h-100 glass p-3 ">
   <div class="text-red text-wrap arrutexto animate__animated animate__zoomIn" style="font-family: Alice, serif;">
     <h1>Uma vida mais leve...</h1>
     <h2 class="arrutexto animate__animated animate__zoomIn" style="font-size: 18px; ">
@@ -6,5 +6,3 @@
     </h2>
   </div>
 </div>
-
-</div>  

@@ -12,7 +12,7 @@
             <a class="nav-link grow" aria-current="page" href="#" style="color:black !important;">Inicio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link grow" href="#" style="color:black !important;">Conteúdos</a>
+            <a class="nav-link grow" href="#" style="color:black !important;">Me conheça</a>
           </li>
           <li class="nav-item">
             <a class="nav-link grow" href="#" style="color:black !important;">Consultas</a>

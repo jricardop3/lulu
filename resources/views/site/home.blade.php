@@ -13,6 +13,11 @@
         @component('site.components.card5')
         @endcomponent
 </div>
+<div class="row gx-0">
+        @component('site.components.calendar')
+        @endcomponent
+</div>
+
 <a href="https://www.instagram.com/louiseduarte.nutri/" style="position:fixed;width:60px;height:60px;bottom:40px;right:40px;
 background-color:#833ab4;
 color:#FFF;background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);border-radius:50px;

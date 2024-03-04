@@ -70,6 +70,115 @@
     
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+*, *:after, *:before {
+  box-sizing: border-box;
+}
+:root {
+  --c-theme-primary: #008FFD;
+  --c-theme-primary-accent: #CBE8FF;
+  --c-bg-primary: #D6DAE0;
+  --c-bg-secondary: #EAEBEC;
+  --c-bg-tertiary: #FDFDFD;
+  --c-text-primary: #1F1F25;
+  --c-text-secondary: #999FA6;
+}
 
+button {
+  font: inherit;
+  cursor: pointer;
+}
+button:focus {
+  outline: 0;
+}
+.calendario {
+  width: 95%;
+  max-width: 350px;
+  background-color: var(--c-bg-tertiary);
+  border-radius: 10px;
+  box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.2), 0 5px 10px 0 rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+}
+.calendario-top {
+  margin-bottom: 1rem;
+}
+.btn-group {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+  margin-top: -0.5rem;
+}
+.tag {
+  margin-right: 0.5rem;
+  margin-top: 0.5rem;
+  border: 0;
+  background-color: var(--c-bg-secondary);
+  border-radius: 10px;
+  padding: 0.5em 0.75em;
+  font-weight: 600;
+}
+.month-selector {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.arrow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 0;
+  background-color: #FFF;
+  border-radius: 12px;
+  width: 2.5rem;
+  height: 2.5rem;
+  box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.25), 0 0 10px 0 rgba(0, 0, 0, 0.15);
+}
+.month-name {
+  font-weight: 600;
+}
+.calendario-calendar {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  grid-row-gap: 1rem;
+}
+.dias, .diasx{
+  justify-self: center;
+}
+.diasx {
+  color: var(--c-text-secondary);
+  font-size: 0.875em;
+  font-weight: 500;
+  justify-self: center;
+}
+.dias{
+  border: 0;
+  padding: 0;
+  width: 2.25rem;
+  height: 2.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  font-weight: 600;
+  border: 2px solid transparent;
+  background-color: transparent;
+  cursor: pointer;
+}
+.diasfocus {
+  outline: 0;
+  color: var(--c-theme-primary);
+  border: 2px solid var(--c-theme-primary-accent);
+}
+.diasx {
+  color: var(--c-text-secondary);
+}
+.atual-dias {
+  color: #FFF;
+  border-color: var(--c-theme-primary);
+  background-color: var(--c-theme-primary);
+}
+.atual-dias:focus {
+  background-color: var(--c-theme-primary-accent);
+}
 
 

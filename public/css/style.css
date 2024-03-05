@@ -102,12 +102,7 @@ button:focus {
 .calendario-top {
   margin-bottom: 1rem;
 }
-.btn-group {
-  display: flex;
-  flex-wrap: wrap;
-  margin-bottom: 1rem;
-  margin-top: -0.5rem;
-}
+
 .tag {
   margin-right: 0.5rem;
   margin-top: 0.5rem;

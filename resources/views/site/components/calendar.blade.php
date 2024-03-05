@@ -1,10 +1,6 @@
-<div class="calendario row" style="">
+<div class="container-fluid calendario row" >
 	<div class="calendario-top">
-		<div class="btn-group">
-			<button class="tag">Todias</button>
-			<button class="tag">Tomorrow</button>
-			<button class="tag">In 2 diass</button>
-		</div>
+		
 		<div class="month-selector">
 			<button class="arrow"><i class="material-icons">chevron_left</i></button>
 			<span class="month-name">December 2020</span>

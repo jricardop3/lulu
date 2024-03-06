@@ -1,10 +1,10 @@
-<div class="container-fluid calendario row" >
+<div class="container-fluid calendario row col-md-4 mb-4 " style="margin-left: 4.5dvw;" >
 	<div class="calendario-top">
 		
 		<div class="month-selector">
-			<button class="arrow"><i class="material-icons">chevron_left</i></button>
+			<button class="arrow"><img src="https://www.svgrepo.com/show/462337/previous.svg" alt="" style="width: 20px;"></button>
 			<span class="month-name">December 2020</span>
-			<button class="arrow"><i class="material-icons">chevron_right</i></button>
+			<button class="arrow"><img src="https://www.svgrepo.com/show/462114/next.svg" alt="" style="width: 20px;"> </button>
 		</div>
 	</div>
 	<div class="calendario-calendar">
@@ -15,7 +15,7 @@
 		<span class="dias">Fr</span>
 		<span class="dias">Sa</span>
 		<span class="dias">Su</span>
-		<button class="diasx">30</button>
+		<button onclick="diaAtual()" class="diasx">30</button>
 		<button class="dias">1</button>
 		<button class="dias">2</button>
 		<button class="dias">3</button>
@@ -52,3 +52,9 @@
 		<button class="diasx">3</button>
 	</div>
 </div>
+
+<script>
+function diaAtual() {
+  
+}
+</script>

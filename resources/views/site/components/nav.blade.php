@@ -9,10 +9,10 @@
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav" >
           <li class="nav-item">
-            <a class="nav-link grow" aria-current="page" href="#" style="color:black !important;">Inicio</a>
+            <a class="nav-link grow" aria-current="page" href="/" style="color:black !important;">Inicio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link grow" href="#" style="color:black !important;">Me conheça</a>
+            <a class="nav-link grow" href="/sobremim" style="color:black !important;">Me conheça</a>
           </li>
           <li class="nav-item">
             <a class="nav-link grow" href="#" style="color:black !important;">Consultas</a>

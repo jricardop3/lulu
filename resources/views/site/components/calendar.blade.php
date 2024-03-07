@@ -1,4 +1,4 @@
-<div class="container-fluid calendario row col-md-4 mb-4 " style="margin-left: 4.5dvw;" >
+<div class="container-fluid calendario row col-md-4 mb-4 " style="margin-left: 1dvw; font-size: 20px" >
 	<div class="calendario-top">
 		
 		<div class="month-selector">
@@ -8,14 +8,14 @@
 		</div>
 	</div>
 	<div class="calendario-calendar">
-		<span class="dias">Mo</span>
-		<span class="dias">Tu</span>
-		<span class="dias">We</span>
-		<span class="dias">Th</span>
-		<span class="dias">Fr</span>
-		<span class="dias">Sa</span>
-		<span class="dias">Su</span>
-		<button onclick="diaAtual()" class="diasx">30</button>
+		<span class="mes">Seg</span>
+		<span class="mes">Ter</span>
+		<span class="mes">Qua</span>
+		<span class="mes">Qui</span>
+		<span class="mes">Sex</span>
+		<span class="mes">Sab</span>
+		<span class="mes">Dom</span>
+		<button onclick="diaAtual()" class="dias diasx">30</button>
 		<button class="dias">1</button>
 		<button class="dias">2</button>
 		<button class="dias">3</button>
@@ -47,9 +47,9 @@
 		<button class="dias">29</button>
 		<button class="dias">30</button>
 		<button class="dias">31</button>
-		<button class="diasx">1</button>
-		<button class="diasx">2</button>
-		<button class="diasx">3</button>
+		<button class="dias diasx">1</button>
+		<button class="dias diasx">2</button>
+		<button class="dias diasx">3</button>
 	</div>
 </div>
 

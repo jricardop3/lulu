@@ -93,7 +93,7 @@ button:focus {
 }
 .calendario {
   width: 95%;
-  max-width: 350px;
+  max-width: 600px;
   background-color: var(--c-bg-tertiary);
   border-radius: 10px;
   box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.2), 0 5px 10px 0 rgba(0, 0, 0, 0.1);
@@ -136,16 +136,16 @@ button:focus {
   grid-template-columns: repeat(7, 1fr);
   grid-row-gap: 1rem;
 }
-.dias, .diasx{
+.mes, .dias{
   justify-self: center;
 }
-.diasx {
+.mes {
   color: var(--c-text-secondary);
   font-size: 0.875em;
   font-weight: 500;
   justify-self: center;
 }
-.dias{
+.dias {
   border: 0;
   padding: 0;
   width: 2.25rem;
@@ -159,7 +159,7 @@ button:focus {
   background-color: transparent;
   cursor: pointer;
 }
-.diasfocus {
+.dias:focus {
   outline: 0;
   color: var(--c-theme-primary);
   border: 2px solid var(--c-theme-primary-accent);

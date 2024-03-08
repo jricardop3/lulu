@@ -3,7 +3,7 @@
 @section('conteudo')
 
 <div class="row gx-0">
-        @component('site.components.container')
+        @component('site.components.container3')
         @endcomponent
 </div>
 

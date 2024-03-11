@@ -21,3 +21,7 @@ Route::get('/sobremim', function () {
     return view('site.conheca');
 });
 
+Route::get('/agende', function () {
+    return view('site.agende');
+});
+

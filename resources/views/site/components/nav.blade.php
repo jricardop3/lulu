@@ -15,7 +15,7 @@
             <a class="nav-link grow" href="/sobremim" style="color:black !important;">Me conheça</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link grow" href="#" style="color:black !important;">Consultas</a>
+            <a class="nav-link grow" href="/agende" style="color:black !important;">Agende</a>
           </li>          
         </ul>
       </div>

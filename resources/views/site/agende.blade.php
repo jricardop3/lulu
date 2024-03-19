@@ -21,7 +21,7 @@ backdrop-filter: blur(14.8px);
 -webkit-backdrop-filter: blur(14.8px);
 border: 1px solid rgba(255, 138, 138, 1);">
     <div class="col-md-6 col-sm-1">
-      @component('site.components.input')
+      @component('site.components.card8')
       @endcomponent
     </div>
     <div class="col-md-6 col-sm-12">

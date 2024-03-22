@@ -2,10 +2,10 @@
 @section('title', 'Louise Nutrição')
 @section('conteudo')
 
-<div class="container-fluid flex col-12" style="height: 100vh;  ">
+<div class="container-fluid flex col-12">
   <div class="mt-5 d-md-none d-block">
     <div class="">
-      @component('site.components.input')
+      @component('site.components.card8')
       @endcomponent
     </div>
     <div class="">
@@ -14,12 +14,12 @@
     </div>
   </div>
   <div class="mt-5 d-md-flex d-none " style="margin: 5dvh 10dvw 0 10dvw; /* From https://css.glass */
-background: rgba(255, 138, 138, 0.74);
-border-radius: 16px;
-box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-backdrop-filter: blur(14.8px);
--webkit-backdrop-filter: blur(14.8px);
-border: 1px solid rgba(255, 138, 138, 1);">
+  background: rgba(255, 138, 138, 0.74);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(14.8px);
+  -webkit-backdrop-filter: blur(14.8px);
+  border: 1px solid rgba(255, 138, 138, 1);">
     <div class="col-md-6 col-sm-1">
       @component('site.components.card8')
       @endcomponent
@@ -28,6 +28,10 @@ border: 1px solid rgba(255, 138, 138, 1);">
       @component('site.components.login')
       @endcomponent
     </div>
+  </div>
+  <div class="">
+    @component('site.components.card9')
+    @endcomponent
   </div>
 </div>
 <a href="https://www.instagram.com/louiseduarte.nutri/" style="position:fixed;width:60px;height:60px;bottom:40px;right:40px;

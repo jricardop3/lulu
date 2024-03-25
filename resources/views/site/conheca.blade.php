@@ -2,9 +2,11 @@
 @section('title', 'Louise Nutrição')
 @section('conteudo')
 
+<div class="container mx-auto">
 <div class="row gx-0">
         @component('site.components.container3')
         @endcomponent
+</div>
 </div>
 
 <a href="https://www.instagram.com/louiseduarte.nutri/" style="position:fixed;width:60px;height:60px;bottom:40px;right:40px;

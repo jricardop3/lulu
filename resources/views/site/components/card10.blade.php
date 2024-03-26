@@ -1,12 +1,14 @@
 <div class="col px-3">
-    <div class="col-md-5 mb-3">
-        <h1></h1>
+    <div class="col mb-3 text-center">
+        <h1>Pensando na facilidade para você entrar em contato, há uma equipe especializada esperando você!</h1>
+        <br>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptas, cum?</p>
     </div>
     <div class="col-md-5 mb-3">
         
     </div>
     <div>
-       <a href="https://wa.me/13991354181" target="_blank"><button type="submit" class="btn btn-primary" >Envie-nos uma mensagem</button></a> 
+       <a href="https://wa.me/13991354181" target="_blank" ><button type="submit" class="btn btn-primary" style="margin-top:45px " >Envie-nos uma mensagem</button></a> 
     </div>
 </div>
 

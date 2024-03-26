@@ -9,7 +9,7 @@
       @endcomponent
     </div>
     <div class="">
-      @component('site.components.login')
+      @component('site.components.card10')
       @endcomponent
     </div>
   </div>
@@ -25,7 +25,7 @@
       @endcomponent
     </div>
     <div class="col-md-6 col-sm-12">
-      @component('site.components.login')
+      @component('site.components.card10')
       @endcomponent
     </div>
   </div>

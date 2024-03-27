@@ -1,4 +1,4 @@
-<div class="container-fluid text-center" style="height:auto ; width:100%;">
+<div class="container-fluid text-center" style="width:100%;">
     <div class="row mt-4">
         <!-- <div class="col-md-4 text-wrap animate__animated animate__backInLeft glass" style="font-family: Alice, serif;">
             <h1>Louise Duarte</h1>

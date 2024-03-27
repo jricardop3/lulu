@@ -13,8 +13,7 @@
         <div class="">
             <label for="exampleFormControlTextarea1" class="form-label">Conte o seu caso:</label>
             <textarea class="form-control" id="exampleFormControlTextarea1" rows="4"></textarea>
-            <br>
-            <button type="submit" class="btn btn-primary">Enviar</button>
+            <button type="submit" class="btn btn-primary" style="margin: 1dvh 0;">Enviar</button>
         </div>
     </div>
 </form>

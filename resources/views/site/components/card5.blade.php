@@ -2,8 +2,7 @@
     <h2 class="text-center mt-2 mb-4" style="font-family: Alice, serif;">Conheça mais</h2>
     <div class="row">
         <div class="col-md-4 mb-4 " data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1500">
-            @component('site.components.calendar')
-            @endcomponent
+            
             <div class="glass mt-3">
                 <h3>Consulta</h3>
                 <p class="text-center arrutexto">Descubra como é simples e fácil agendar a sua consulta de nutrição! Com uma maneira simplificada e prática, você pode escolher o melhor dia e horário para você. Tenha uma consulta particular e comece a cuidar da sua saúde de forma personalizada e eficaz. Agende agora e dê o primeiro passo para uma vida mais saudável!</p>
@@ -17,7 +16,7 @@
             </div>
         </div>
         <div class="col-md-4 mb-4" data-aos="fade-up" data-aos-anchor-placement="center-bottom" data-aos-duration="1500">
-            <img src="https://www.svgrepo.com/show/513284/comment.svg" alt="Serviço 3" class="img-fluid" width="150px">
+            
             <div class="glass mt-3">
                 <h3>Depoimento</h3>
                 <p>

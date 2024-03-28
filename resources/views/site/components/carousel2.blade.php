@@ -1,7 +1,7 @@
 <div class="mt-3 d-block">
     <h3>Conheça mais</h3>
     <div id="carouselExample" class="carousel slide" data-bs-ride="carousel" style="padding: 2vh 2vw;">
-        <div class="carousel-inner">
+        <div class="carousel-inner text-center">
             <div class="carousel-item active " data-bs-interval="5000">
                 <img src="img/cozinhando.gif" class="img-fluid" alt="..." style="border-radius: 160px; width:128px ; height: 128px;">
                 <div class="p-2 telalogin m-2">
@@ -47,3 +47,5 @@
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
         </button>
+    </div>
+</div>

@@ -1,4 +1,4 @@
-<div style="height: 1080px; width:100%;"
+<div style=""
   class="h-100 w-100 d-flex flex-column justify-content-center align-items-center">
   <div class="container-fluid row">
 

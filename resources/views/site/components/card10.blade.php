@@ -10,7 +10,7 @@
     <div>
         <a href="https://wa.me/13991354181" target="_blank" >
         <img src="img/whatsapp.png" class="" style="width: 38px; height: 38px; margin-left: 5px; margin-top: 45px; margin-right: 15px" alt="">
-            <button type="submit" class="btn btn-primary" style="margin-top:45px " >Envie-nos uma mensagem
+            <button type="submit" class="btn btn-primary " style="margin-top:45px  " >Envie-nos uma mensagem
             </button>
             
         </a> 
